@@ -4,8 +4,8 @@ On this page you can find code that will allow you to explore 2D neural style tr
 # ACADIA 2020 Deep Design Models
 
 ## Content
-[2D Neural Style Transfer](#neuralstyle)
-[2D to 3D Style Transfer](#3dstyle)
+1. [2D Neural Style Transfer](#neuralstyle)
+2. [2D to 3D Style Transfer](#3dstyle)
 
 
 <a name="neuralstyle"></a>
