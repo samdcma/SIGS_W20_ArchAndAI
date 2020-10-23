@@ -26,22 +26,13 @@ Workspace:
 
 `https://github.com/alexacarlson/DeepDesign2019.git`
 
-Command Format for running with no mask:
+Command Format for running:
 
 `bash run_2Dneuralstyletransfer_nomask.sh CONTENT_FILE STYLE_FILE OUTPUT_DIR IMAGE_SIZE CONTENT_WEIGHT STYLE_WEIGHT NUM_ITERS`
 
-Command Example for running with no mask: 
+Command Example for running: 
 
 `bash run_2Dneuralstyletransfer_nomask.sh /storage/2Dmodels/robotics_building_satellite.png /storage/2Dmodels/new000343.png /artifacts 500 5.0 1.0 100`
-
-
-Command Format for running with mask:
-
-`bash run_2Dneuralstyletransfer_withmask.sh CONTENT_FILE STYLE_FILE MASK_FILE OUTPUT_DIR IMAGE_SIZE CONTENT_WEIGHT STYLE_WEIGHT NUM_ITERS`
-
-Command Example  for running with mask: 
-
-`bash run_2Dneuralstyletransfer_withmask.sh /storage/2Dmodels/robotics_building_satellite.png /storage/2Dmodels/new000343.png /storage/2Dmodels/new000343_mask.png /artifacts/styleoutputdir 500 5.0 1.0 100`
 
 
 <a name="3dstyle"></a>
